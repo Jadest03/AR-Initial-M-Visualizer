@@ -5,8 +5,12 @@ It utilizes the camera's intrinsic parameters to estimate real-time pose from a 
 ### 1. Camera Matrix ($K$)
 The precise intrinsic parameters obtained from the previous assignment (HW3) were applied.
 
-$$ 
-K = \begin{bmatrix} 1922.61898 & 0 & 1091.79010 \\ 0 & 1926.59005 & 1908.48807 \\ 0 & 0 & 1 \end{bmatrix} 
+$$
+K = \begin{bmatrix}
+1922.61898 & 0 & 1091.79010 \\
+0 & 1926.59005 & 1908.48807 \\
+0 & 0 & 1
+\end{bmatrix}
 $$
 
 
